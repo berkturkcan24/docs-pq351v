@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ou5cep.indowin.cfd/sitemap.xml
